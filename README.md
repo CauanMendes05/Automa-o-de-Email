@@ -21,5 +21,4 @@
 2. Archive data for each store;
 3. Calculate/define variables;
 4. Build and structure the E-mail HTML;
-5. Process the Ranking email."# Automa-o-de-Email" 
-"# Automa-o-de-Email" 
+5. Process the Ranking email. 
