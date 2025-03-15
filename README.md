@@ -21,4 +21,8 @@
 2. Archive data for each store;
 3. Calculate/define variables;
 4. Build and structure the E-mail HTML;
-5. Process the Ranking email. 
+5. Process the Ranking email.
+
+### How it works:
+- To change the email of the receiver, go to the Emails sheet;
+- To change the content of the Email, change it in the HTML inside the code.
