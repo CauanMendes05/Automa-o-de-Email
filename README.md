@@ -26,3 +26,5 @@
 ### How it works:
 - To change the email of the receiver, go to the Emails sheet;
 - To change the content of the Email, change it in the HTML inside the code.
+
+ >The variables are in Portuguese(Brazilian)
